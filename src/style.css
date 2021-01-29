@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+  color: white;
+}
+span {
+  color: white;
+}
+.detail {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
